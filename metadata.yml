@@ -1,2 +1,5 @@
 dependencies:
 - git@github.com:ministryofjustice/repos-formula.git
+
+entry:
+ - ruby
